@@ -153,4 +153,4 @@ The Automated Report Generation project helped me understand how Python can be u
 
 This project improved my understanding of file handling, data processing, automation, and PDF generation in Python. It also showed me how programming can simplify business operations and increase efficiency.
 
-# OUTPUT
+# OUTPUT:[Sales_Report.pdf](https://github.com/user-attachments/files/25420138/Sales_Report.pdf)
